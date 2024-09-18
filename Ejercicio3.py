@@ -7,7 +7,7 @@
 #Más de 60000€	            45%
 # Escribir un programa que pregunte al usuario su renta anual y muestre por pantalla 
 # el tipo impositivo que le corresponde. (10p)
-
+#####################
 #Se soliciata al usuario que ingrese la renta mensual y se almacena en la variable renta
 renta=float(input("Ingrese la renta mensual: "))
 # Condicional para determinar el tipo impositivo dependiendo de la renta
