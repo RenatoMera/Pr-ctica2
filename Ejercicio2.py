@@ -3,7 +3,7 @@
 # Escribir un programa que pregunte
 # al usuario su edad y sus ingresos mensuales y muestre por
 # pantalla si el usuario tiene que tributar o no. (10p)
-
+#Preuba
 #Se soliciata el usuario su edad y se almacena en la variable Edad
 Edad= int(input("Ingrese su edad: "))
  #Se solicita al usuario sus ingresos y se almacena en la variable ingresos
