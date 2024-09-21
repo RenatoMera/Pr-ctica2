@@ -3,6 +3,7 @@
 # El grupo que presente la mejor solución será el único en recibir los 60 puntos asignados a 
 # esta pregunta.
 #Punto de Venta con 3 Productos 
+#####
 
 sabritacant=20
 sabritacosto=30
