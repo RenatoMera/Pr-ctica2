@@ -65,6 +65,6 @@ def main():
             break
         else:
             print("Opción no válida. Intente nuevamente.")
-# este bloque garantiza que la función main()
+# este bloque garantiza que la función main() se ejecute
 if __name__ == "__main__":
     main()
